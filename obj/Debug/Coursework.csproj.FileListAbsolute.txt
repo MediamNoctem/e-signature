@@ -1,0 +1,198 @@
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Coursework.exe
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Coursework.pdb
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Memory.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\websocket-sharp.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Memory.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\websocket-sharp.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.exe
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\obj\Debug\Coursework.pdb
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x64\concrt140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x64\cvextern.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x64\msvcp140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x64\vcruntime140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x86\concrt140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x86\cvextern.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x86\msvcp140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\x86\vcruntime140.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\OpenCvSharp.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.ValueTuple.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\ZedGraph.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\OpenCvSharp.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.ValueTuple.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\ZedGraph.xml
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\System.Drawing.Common.dll
+C:\Users\romAn\OneDrive\Documents\GitHub\Coursework-2022\Coursework\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.exe
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.pdb
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x64\concrt140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x64\cvextern.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x64\msvcp140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x64\vcruntime140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x86\concrt140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x86\cvextern.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x86\msvcp140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\x86\vcruntime140.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Coursework.exe
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Coursework.pdb
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\OpenCvSharp.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Drawing.Common.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Memory.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.ValueTuple.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\websocket-sharp.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\ZedGraph.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\OpenCvSharp.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Memory.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\System.ValueTuple.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\websocket-sharp.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\ZedGraph.xml
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\romAn\OneDrive\Рабочий стол\Coursework\obj\Debug\Coursework.csproj.CopyComplete
